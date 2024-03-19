@@ -3,3 +3,4 @@
 
 коммит 2 для feature2
 коммит 3 для feature2
+коммит 4 для feature2
